@@ -1,14 +1,16 @@
-# Mention All Bot
-_**This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !**_
+# Mention Bot Sielzz
+_**Bot ini dapat menyebut anggota hingga 10.000 di grup dan dapat menyebut anggota hingga 200 di saluran !**_
 
-### 🏷 Infomation
-- Language: Python.
-- Telegram Library: Telethon.
+### 🏷 Informasi
+- Bahasa: Python.
+- Perpustakaan Telegram: Telethon.
 
-### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/MentionAllBot)
+
 
 ### 🎯 Credits and Other
-- [Me](https://github.com/AnjanaMadu) for this Project ;)
+- [Me](https://github.com/sielzz) for this Project ;)
 
-**Do not forget to follow me on Github ✌️**
+**Jangan lupa support tuan gua ye di Telegram ️**
+- [Tuan Gua](https://t.me/sielzz)
+- [Support Group](https://t.me/sielzzsupport)
+- [Project Group](https://t.me/sielzzproject)
